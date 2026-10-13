@@ -1,0 +1,37 @@
+==  -compara varianbles
+
+a == b - se pregunta si "a" es igual a "b"
+
+--------------------------------------------
+
+!= - compara si dos variables son direntes
+
+a != b -  se pregunta si "a" es diferente de "b"
+
+--------------------------------------------
+
+>  - Mayor que
+
+a > b - se pregunta si "a" es mayor que "b"
+b > a - se pregunta si "b" es mayor que "a"
+
+----------------------------------------------
+
+< - Menor que
+
+a < b - se pregunta si "a" es menor que "b"
+b < a - se pregunta si "b" es menor que "a"
+
+----------------------------------------------
+
+>=  - Mayor o igual
+
+a >= b - se pregunta si "a" es mayor o igual que "b"
+b >= a - se pregunta si "b" es mayor o igual que "a"
+
+----------------------------------------------
+
+<= - Menor que
+
+a <= b - se pregunta si "a" es menor o igual que "b"
+b <= a - se pregunta si "b" es menor o igual que "a"
